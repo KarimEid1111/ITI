@@ -1,0 +1,46 @@
+.container {
+    font-size: 30px;
+}
+
+.container div p {
+    font-weight: bold;
+
+}
+
+ul .nav-link:hover {
+    color: rgb(255, 254, 254) !important;
+}
+
+.container-fluid {
+    margin-left: 19%;
+    margin-right: 19%;
+}
+
+
+.image {
+    background-image: url(./Images/intro_flower.png);
+    background-size: cover;
+    width: 65%;
+    border-radius: 30px;
+}
+
+.halfImage p {
+    font-size: 16px;
+}
+
+.image {
+    color: white;
+}
+
+.essay {
+    width: 65%;
+}
+
+.card {
+    border-radius: 15px;
+    background-color: rgb(236, 233, 232);
+}
+
+.para {
+    width: auto;
+}
